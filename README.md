@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Yuting1007/Yuting1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iris-yuting-du-6b4852181/)
 - 😄 Pronouns: She, her, hers
 - ⚡ Fun fact: I worked on vaccine development to against a virus called RSV before!
--->
+
